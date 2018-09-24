@@ -1,0 +1,4 @@
+Rossana.MainActivity, Rossana;md565e898c05c6b2780c36cdb9b545bdb63.MainActivity
+Rossana.MainActivity, Rossana, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md565e898c05c6b2780c36cdb9b545bdb63.MainActivity
+Rossana.MainActivity;md565e898c05c6b2780c36cdb9b545bdb63.MainActivity
+rossana.MainActivity;md565e898c05c6b2780c36cdb9b545bdb63.MainActivity
